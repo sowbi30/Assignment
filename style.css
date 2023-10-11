@@ -1,0 +1,18 @@
+
+a{
+    text-decoration: underline !important;
+}
+.fa{
+    color:blue; 
+}
+.box-part {
+    background-color:whitesmoke;
+    margin: 15px 20px 25px 20px ;
+        border-radius: 10px;
+    padding: 50px 20px;
+    border: 1px solid black;
+    justify-content: space-evenly;
+    text-align: center;
+       
+
+}
